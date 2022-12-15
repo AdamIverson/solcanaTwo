@@ -1,4 +1,5 @@
 node_modules/
+GoogleService-Info.plist
 .expo/
 dist/
 npm-debug.*
